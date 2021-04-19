@@ -1,6 +1,5 @@
 /* Author: Kelly Mak
    Date: January 26, 2021
-   TEJ4M1 - Mr Cho
     Colour Sorter Project: using the colour sensor and servo motors to sort the skittles into
                            different containers based on their colours
 */
